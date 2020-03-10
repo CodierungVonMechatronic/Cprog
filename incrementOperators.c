@@ -1,3 +1,5 @@
+//Quetion: What is output of this code?
+
 #include <stdio.h>
 
 int main() {
